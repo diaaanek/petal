@@ -141,7 +141,7 @@ export default () => {
       {!status.info.error && status.info.msg && <p>{status.info.msg}</p>}
       <img
         src="https://jour.com/icons/apple-logo.svg"
-        style={{ height: "50px" }}
+        style={{ height: "50px", marginTop: "15px" }}
         alt="app store"
       />
     </>
